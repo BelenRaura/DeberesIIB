@@ -1,0 +1,19 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\nonumberline CONJUNTO DE EJERCICIOS}{1}{section*.3}%
+\contentsline {section}{\nonumberline Módulo utilizado para la función resultante}{1}{section*.5}%
+\contentsline {section}{\nonumberline Conjunto de ejercicios}{2}{section*.7}%
+\contentsline {subsection}{\nonumberline Ejercicio 1}{2}{subsection*.9}%
+\contentsline {subsubsection}{\nonumberline Literal a)}{2}{subsubsection*.11}%
+\contentsline {subsubsection}{\nonumberline Literal b)}{4}{subsubsection*.13}%
+\contentsline {subsubsection}{\nonumberline Literal c)}{5}{subsubsection*.15}%
+\contentsline {subsubsection}{\nonumberline Literal d)}{7}{subsubsection*.17}%
+\contentsline {subsubsection}{\nonumberline Literal e)}{8}{subsubsection*.19}%
+\contentsline {subsection}{\nonumberline Ejercicio 2}{10}{subsection*.21}%
+\contentsline {subsubsection}{\nonumberline Literal a)}{10}{subsubsection*.23}%
+\contentsline {subsubsection}{\nonumberline Literal b)}{11}{subsubsection*.25}%
+\contentsline {subsubsection}{\nonumberline Literal c)}{12}{subsubsection*.27}%
+\contentsline {subsubsection}{\nonumberline Literal d)}{14}{subsubsection*.29}%
+\contentsline {subsubsection}{\nonumberline Literal e)}{15}{subsubsection*.31}%
+\contentsline {subsection}{\nonumberline Ejercicio 3}{16}{subsection*.33}%
+\contentsline {subsection}{\nonumberline Puntos de los datos correspondientes al ejercicio 3}{17}{subsection*.35}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
